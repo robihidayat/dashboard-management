@@ -1,4 +1,4 @@
-package org.sekolahaluna.opensource.datamanagemenet;
+package org.sekolahaluna.opensource.datamanagement;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DataManagemenetApplicationTests {
+public class DataManagementApplicationTests {
 
     @Test
     public void contextLoads() {

@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.sekolahaluna.opensource</groupId>
-    <artifactId>data-managemenet</artifactId>
+    <artifactId>dashboard-management</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>data-managemenet</name>
+    <name>dashboard-management</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -58,9 +58,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <classifier>exec</classifier>
-                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.jacoco</groupId>
@@ -152,6 +149,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>

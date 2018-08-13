@@ -1,12 +1,12 @@
-package org.sekolahaluna.opensource.datamanagemenet;
+package org.sekolahaluna.opensource.datamanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DataManagemenetApplication {
+public class DataManagementApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DataManagemenetApplication.class, args);
+        SpringApplication.run(DataManagementApplication.class, args);
     }
 }

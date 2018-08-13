@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/data-managemenet.iml" filepath="$PROJECT_DIR$/data-managemenet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard-management.iml" filepath="$PROJECT_DIR$/dashboard-management.iml" />
     </modules>
   </component>
 </project>
