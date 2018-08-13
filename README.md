@@ -1,5 +1,7 @@
 # dashboard-management
 
+[![Build Status](https://travis-ci.org/robihidayat/dashboard-management.svg?branch=master)](https://travis-ci.org/robihidayat/dashboard-management)
+
 Managemen di archive di sebuah sekolah sangatlah rumit, dikarenakan karena banyak documen yang harus di berkaskan, juga jumlah datanya yang sangat banyak seiring dengan bertambahnya jumlah murid. Belum lagi jika harus mencari sebuah data dari documen yang diambil dari beberapa tahum yang lalu. 
 
 Aplikasi ini bertujuan untuk mempermudah dalam pengarsipan documen di sebuah sekolah. harapannya, dengan adanya Aplikasi ini, bisa mempermudah dalam: 
