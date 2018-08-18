@@ -3,5 +3,4 @@ jdk: oraclejdk8
 
 script:
 - mvn clean verify
-- ./mvnw clean install -B
 - echo $HOME
