@@ -4,3 +4,8 @@ jdk: oraclejdk8
 script:
 - mvn clean verify
 
+deploy:
+  provider: heroku
+  api-key:
+    secure: af38a489-2eb1-4c54-8e6b-bcb94541a5b0
+  app: dashboard-management
