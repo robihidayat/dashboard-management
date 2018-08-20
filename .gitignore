@@ -55,6 +55,12 @@ data-management.iml
 .idea/**/dbnavigator.xml
 .idea/**/**
 
+.project
+
+.vscode
+
+.settings
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
